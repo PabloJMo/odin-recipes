@@ -1,2 +1,8 @@
 # odin-recipes
-Pagina web para probar mis habilidades de html, adquiridas en el proyecto Odin
+
+Pagina web para ejercitar mis habilidades en HTML, adquiridas en el proyecto Odin
+
+Introduction
+It’s time to practice all of the HTML knowledge you have acquired. In this project, you are going to build a basic recipe website.
+
+The website will consist of a main index page which will have links to a few recipes.
